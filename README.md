@@ -1,2 +1,2 @@
 # metodsbot
-newbot
+newbotкрутой бот по таблицам
